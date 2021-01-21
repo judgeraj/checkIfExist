@@ -1,0 +1,28 @@
+LEETCODE PROBLEM: Check If N and its double exist
+
+You are given an array of Ints and are asked to check if there exist two integers N and M such that N is the double of M...(N == 2* M)
+
+i != j
+
+0 <= i, j < arr.length
+
+arr[i] == 2 * arr[j]
+
+
+**************SAMPLE CASES***************
+
+
+INPUT: [10,2,5,3]
+
+OUTPUT: true
+
+Explanation: N is equal to 10 and we can see that 2 * 5 = 10 so there for the output is true
+
+
+
+INPUT: [3,4,9,10]
+
+OUTPUT: false
+
+Explanation: With this input there is no N that equals 2 * M
+ 
